@@ -197,6 +197,12 @@
   background-position: center;
   background-size: cover
 }
+.beneficios {
+  background-image: url(../img/beneficios.webp);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover
+}
 
 .terminar {
   background-image: url(../img/bachileratoceneval-fondo6.png);
@@ -430,6 +436,9 @@
   .inv {
       background-image: none
   }
+  .beneficios {
+    background-image: none
+}
   .espacio {
       padding-top: 0;
       padding-bottom: 48px
